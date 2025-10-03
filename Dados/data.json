@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Nike 95",
+        "descricao": "Tenis Nike 95",
+        "preco": 20.0,
+        "imagem": "../Imagens/95.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Nike 97",
+        "descricao": "Tenis Nike 97",
+        "preco": 13.50,
+        "imagem": "../Imagens/97.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Air Force",
+        "descricao": "Nike Air Force",
+        "preco": 42.50,
+        "imagem": "../Imagens/airforce.webp"
+    },
+    {
+        "id": 4,
+        "nome": "DN",
+        "descricao": "Nike DN",
+        "preco": 20.0,
+        "imagem": "../Imagens/DN.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "TN",
+        "descricao": "Nike TN",
+        "preco": 13.50,
+        "imagem": "../Imagens/TN.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Ja 3",
+        "descricao": "Ja 3",
+        "preco": 42.50,
+        "imagem": "../Imagens/j3.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Jordan 4",
+        "descricao": "Nike Jordan 4",
+        "preco": 20.0,
+        "imagem": "../Imagens/jordan4.webp"
+    },
+    {
+        "id": 8,
+        "nome": "Lado B",
+        "descricao": "Qix Lado B",
+        "preco": 13.50,
+        "imagem": "../Imagens/ladoB.webp"
+    },
+    {
+        "id": 9,
+        "nome": "Jordan 4",
+        "descricao": "Jordan 4",
+        "preco": 42.50,
+        "imagem": "../Imagens/j4.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "95",
+        "descricao": "Nike 95",
+        "preco": 42.50,
+        "imagem": "../Imagens/95ComAzul.jpg"
+    }
+]
